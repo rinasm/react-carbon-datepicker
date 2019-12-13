@@ -3,3 +3,12 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+.calendar-container{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 400px;
+  min-height: 425px;
+  margin-left: -200px;
+  margin-top: -235px;
+}
