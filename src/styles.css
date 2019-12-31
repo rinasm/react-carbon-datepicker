@@ -54,6 +54,7 @@
     left: 0;
     padding: 10px;
     border-radius: 25px;
+    float: 1;
 }
 .cdbCalendar{
     float: left;
