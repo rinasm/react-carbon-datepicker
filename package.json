@@ -1,6 +1,6 @@
 {
   "name": "react-carbon-datepicker",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "An Awesome flexible opensource date picker.",
   "author": "rinasm",
   "license": "MIT",
@@ -57,5 +57,8 @@
   },
   "files": [
     "dist"
+  ],
+  "keywords": [
+    "datepicker", "react-date-picker", "datetime picker", "react datepicker", "react carbon", "date-picker"
   ]
 }
